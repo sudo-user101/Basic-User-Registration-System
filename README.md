@@ -1,4 +1,4 @@
-# Basic User Registration System
+# BasicUserRegistrationSystem
 
 Explore the simplicity of the Basic User Registration System in Python. This project features the `BankHolder` class, providing a straightforward way for users to register with their name, age, and preferred bank. The system performs input validation to ensure accurate user information. Each user is assigned a unique account number, and the system generates an informative summary with an initial balance of R0.
 
@@ -17,5 +17,6 @@ Explore the simplicity of the Basic User Registration System in Python. This pro
 
 2. **Run the Application:**
     ```bash
-    python main.py
+    python BasicUserRegistrationSystem.py
     ```
+
